@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Team Shuffler",
+  "description": "An advanced random team generator featuring cryptographically secure shuffling and AI-powered team identity generation using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
